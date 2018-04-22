@@ -1,0 +1,16 @@
+{
+  "name": "trytype",
+  "version": "0.0.1",
+  "description": "cool first time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raz1990/trytype.git"
+  },
+  "author": "Raz Harash",
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "typescript": "2.8.3"
+  },
+  "homepage": "url: https://github.com/Raz1990/trytype",
+  "main": "tryFunc.js"
+}
