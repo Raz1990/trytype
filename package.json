@@ -2,7 +2,7 @@
   "name": "trytype",
   "version": "1.0.0",
   "description": "",
-  "main": "funcHere.js",
+  "main": "tryFunc.js",
   "dependencies": {
     "package.json": "^2.0.1",
     "typescript": "^2.8.3"
