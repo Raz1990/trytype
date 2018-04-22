@@ -1,5 +1,5 @@
-function f(x1: string){
-    console.log(x1);
+function f(x1: string, x2: number){
+    console.log('word: ' + x1 + ' number ' + x2);
 }
 
 export{f};
